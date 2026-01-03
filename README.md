@@ -1,4 +1,4 @@
-# Linux Security Monitoring Tool
+# Sentinel: A Linux Security Monitoring Tool
 
 A Python-based security monitoring tool that parses SSH authentication logs
 to detect failed login attempts and suspicious activity.
